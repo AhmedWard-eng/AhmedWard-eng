@@ -58,6 +58,8 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedWard-eng&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedWard-eng)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AhmedWard-eng/AhmedWard-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
