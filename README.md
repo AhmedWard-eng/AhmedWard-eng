@@ -24,6 +24,8 @@
 ---
 
 ### :man_technologist: About Me :
+
+I am an android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 <!--
 **AhmedWard-eng/AhmedWard-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
