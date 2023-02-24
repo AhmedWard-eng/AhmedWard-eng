@@ -27,7 +27,7 @@
 
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m working as a Software Engineer and contributing to Android development for building Mobile applications.
+- :telescope: I am a Software engineer who develops high-quality and well-architecture android mobile applications, focusing on both clean code and meeting deadlines, able to develop apps using both Kotlin and Java and utilize different architecture patterns such as MVP, MVC, and MVVM.
 
 - :seedling: Exploring Technical Content Writing.
 
